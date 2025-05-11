@@ -1,0 +1,30 @@
+version: '2'
+services:
+  api:
+    image: rizzalbayu/bocilz-bot-v2:1
+
+    #working_dir: /src
+    command: sh -c "npm run start"
+    expose:
+      - 3000
+    restart: always
+    environment:
+      API_TOKEN: ${API_TOKEN}
+      ADMIN: ${ADMIN}
+      API_KEY: ${API_KEY}
+      PREFIX: ${PREFIX}
+  mysql:
+    image: mysql:latest
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: placeholder_root_password
+      MYSQL_DATABASE: placeholder_database
+      MYSQL_USER: placeholder_user
+      MYSQL_PASSWORD: placeholder_password
+    ports:
+      - '3307:3306' # Expose MySQL port if needed
+    volumes:
+      - mysql_data:/var/lib/mysql # Mount a volume to persist data
+
+volumes:
+  mysql_data:

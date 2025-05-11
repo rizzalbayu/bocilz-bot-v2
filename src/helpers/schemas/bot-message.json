@@ -1,0 +1,120 @@
+{
+  "messages": [
+    ["halo", "Halo juga", false, true, "reply"],
+    [
+      "hai",
+      "https://media.tenor.com/xxZX9rMTNLIAAAAC/ganyu-genshin.gif",
+      false,
+      true,
+      "gif"
+    ],
+    ["p", "Pape pape, apaan", false, false, "reply"],
+    [
+      "pedih bang",
+      "https://c.tenor.com/6uqFlfpRyeYAAAAC/patrick-patrick-star.gif",
+      false,
+      false,
+      "gif"
+    ],
+    [
+      "bye",
+      "https://c.tenor.com/a5w95V3HdVcAAAAC/nileseyy-niles-peace-out.gif",
+      false,
+      false,
+      "gif"
+    ],
+    [
+      "ehe",
+      "https://media.tenor.com/Za14IOIKmioAAAAC/spy-x-family-anya-forger.gif",
+      false,
+      false,
+      "gif"
+    ],
+    [
+      "turu",
+      "https://media.tenor.com/-vuwXHdXMu4AAAAC/spongebob-sleepy.gif",
+      false,
+      false,
+      "gif"
+    ],
+    [
+      "ehem",
+      "https://media.tenor.com/LNtZcAZjdTUAAAAC/smirk-spongebob.gif",
+      false,
+      false,
+      "gif"
+    ],
+    [
+      "congrats||congrats bang",
+      "https://media.tenor.com/b8ZOS95Tc1YAAAAd/sayu.gif",
+      false,
+      false,
+      "gif"
+    ],
+    ["ah yang bener", "Bener kok", true, false, "channel"],
+    ["wkwkwkwk", "Ah ga lucu", true, false, "reply"],
+    ["apa kabar", "Alhamdulillah baik", true, false, "reply"],
+    ["ludo?", "Gass main ludo", true, false, "reply"],
+    ["mending iki", "Mending kamu diam!", true, false, "reply"],
+    ["waifuku", "GWS bang-sat!", true, false, "reply"],
+    ["tenan iki", "Aku ra percoyo", true, false, "reply"],
+    ["kan pakde", "Valid nek iki", true, false, "channel"],
+    ["lagi dimana bang?", "Lagi di GANG BANG", true, false, "reply"],
+    ["lagi di mana bang?", "Lagi di GANG BANG", true, false, "reply"],
+    ["alesan opo meneh wik", "Wika cen kakehen alesan", true, false, "channel"],
+    ["apa betul?", "Betul sekali||Tidack", true, false, "channel"],
+    [
+      "lagi?",
+      "Gas kenn||skip duls||Syudah dulu gaesss||Lets go",
+      true,
+      false,
+      "channel"
+    ],
+    ["sama||siapa||?", "sama random user", true, false, "reply"],
+    [
+      "boleh||?",
+      "GAK boleh||Boleeeeh||https://media.discordapp.net/attachments/1069529924148412416/1069879717529915402/Screenshot_2023-01-31-14-19-32-706_com.snowcorp.stickerly.android.png||https://media.discordapp.net/attachments/753903142327812178/1070695199468163072/FB_IMG_1675344006456.jpg?width=671&height=671",
+      true,
+      false,
+      "reply"
+    ],
+    ["mau||?", "GAK mauuu||Mauuu", true, false, "reply"],
+    ["bisa||ga||?", "GAK bisa gaes||Bisa", true, false, "reply"],
+    [
+      "armageddon",
+      "Armageddon best produk iki, ra ono tandingane",
+      true,
+      false,
+      "channel"
+    ],
+    ["arma ", "Maksudmu armagentot?", true, false, "reply"],
+    [
+      "percoyo",
+      "https://i.pinimg.com/564x/4b/8a/66/4b8a6608540e1d063c3580cf3260a62b.jpg",
+      true,
+      false,
+      "gif"
+    ],
+    [
+      "percaya",
+      "https://pbs.twimg.com/media/DtD_6PyUcAAbD87?format=jpg&name=360x360",
+      true,
+      false,
+      "gif"
+    ],
+    [
+      "hmmm",
+      "https://c.tenor.com/dEurReEy0zUAAAAC/sponge-bob-patrick-star.gif",
+      true,
+      false,
+      "gif"
+    ],
+    [
+      "hahahahaha",
+      "https://c.tenor.com/8FB1tCTJjdAAAAAC/haha.gif",
+      true,
+      false,
+      "gif"
+    ]
+  ]
+}
